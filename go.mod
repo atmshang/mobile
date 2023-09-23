@@ -13,3 +13,4 @@ require (
 require golang.org/x/sys v0.12.0 // indirect
 
 replace golang.org/x/mobile/bind => github.com/atmshang/mobile/bind
+replace golang.org/x/mobile => github.com/atmshang/mobile
